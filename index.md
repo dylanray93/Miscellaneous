@@ -1,3 +1,7 @@
 # Viz 1
-
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes"></iframe>
+<iframe src="https://www.youtube.com/embed/{{ include.id }}" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
