@@ -1,7 +1,3 @@
 # Viz 1
-<iframe src="https://public.tableau.com/profile/dylan.ray8079#!/vizhome/MainCitiesofFrosinone/Dashboard1" 
-    width="560" 
-    height="315"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
+
